@@ -1,0 +1,24 @@
+question 1)   Using variables and macros to express data instead of hardcoding "magic" numbers has a variety of benefits. Three instances are shown below, using the specifics of this session as context:
+
+Readability and Maintainability: By giving a variable or macro a name, the programmer may more easily comprehend what the value stands for, which improves the readability and maintainability of the code. 
+The programmers can understand what the constants MIN YEAR, MAX YEAR, and LOG DAYS stand for because they are declared using macros in this code.
+
+ Flexibility: Finding and replacing each instance of a hardcoded value throughout the code can be a time-consuming and error-prone task. 
+ The risk of introducing errors into the code is reduced by using variables or macros to represent the value.
+ For instance, the LOG DAYS macro can be easily adjusted, and the code will update to reflect the change if the number of days for logging changes.
+
+ Variables and macros can be used throughout the code, reducing duplication and making the code more efficient.
+ For example, in this code, the JAN and DEC variables are declared and then used in the error message for month validation, making the code more concise and efficient
+
+
+ question 2) The rating values are verified and added to the corresponding total variables in each loop iteration of the workshop code that is provided. 
+ However, the reasoning behind calculating the average and sum is done outside of the loop.
+
+ Readability: The code is made more legible and simpler to comprehend by separating the validation and computation algorithms. 
+ The validation procedure would be more difficult to understand and the reader would become confused if the calculation logic were included inside the loop.
+
+ If the loop continues for a long time or has many iterations, computing the sum and average inside the loop could be computationally expensive.
+The code is cleaner and performs better when the calculation logic is kept outside of the loop.
+
+In this instance, the loop has a predetermined number of iterations because the workshop code likewise runs over a set number of days.
+In this situation, separating the computation and validation logic is a superior design choice because it makes the code more legible and effective.
