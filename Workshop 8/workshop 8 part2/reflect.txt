@@ -1,0 +1,23 @@
+ question)1:
+ Benifit-   One benefit of this feature is that it increases the flexibility and usability of the functions since the caller can choose how to receive the returned value. 
+ For example, the caller may choose to store the returned value in a variable or pass a pointer to an argument in order to modify its value.
+ also, some programmers might choose to use a function's return value in certain circumstances, while others might prefer to pas a pointer to a variable so that the function can write the result to that variable. 
+ By giving both possibilities, the function can be utilised whichever the developer chooses, depending on their preference.
+
+ Downside-  The code may become more complicated and challenging to read as a result of having functions built in this manner. It may be more challenging to comprehend what a function does and how to use it if it has several ways to return values.
+ Also, having both options available could result in inconsistent usage throughout various codebase sections, making maintenance more hard.
+
+ Question2)
+ In the  code, convertLbs() function demonstrates less than perfect cohesion because it has two responsibilities, converting pounds to kilograms and grams. 
+ A better approach would be to split the function into two separate functions, each with a single responsibility.
+
+The convertLbs() function also demonstrates high coupling because it directly accesses the memory locations of the conversionResultToKg and conversionResultToG variables. 
+A better approach would be to pass in these variables as parameters to the function so that it is clear what data the function depends on and what data it returns.
+
+question3):
+The benefits of passing structures to functions are many. The first benefit is that it enables the passing of numerous values as a single argument, which makes code shorter and easier to read. 
+Second, it gives the function the ability to directly alter the structure's fields, which can be advantageous for updating the data. Finally, it enables the development of reusable functions that can deal with sophisticated data types.
+    We could give pointers to the structure rather than the complete structure to make data passing to functions more effective. As a result, the application would use less memory and require less data to be duplicated and passed around.
+    Further increasing the program's security, we could utilise const pointers to guarantee that the function does not alter the original data.
+           The "displayCatfoodData" function could be improved in several ways. Firstly, we could pass a pointer to the "CatFoodInfo" structure instead of its individual fields to reduce the number of parameters. Secondly, we could use const pointers to ensure that the function does not modify the structure's data. 
+           inally, we could modify the function to accept an array of "CatFoodInfo" structures and iterate over them to display the data, which would make the function more flexible and reusable.
