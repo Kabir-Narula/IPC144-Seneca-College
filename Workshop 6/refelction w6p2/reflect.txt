@@ -1,0 +1,13 @@
+Question1) For, while, and d0- while are the three main forms of iteration constructs used in programming. While each of these constructs can produce the same outcome,
+their syntaxes and optimal applications vary.for loop is frequently used when working with arrays since it makes it simple to iterate through an array's elements using an index variable. 
+A for loop's syntax is also shorter and easier to read than the syntax of the other two constructions.
+The while loop is useful when you don't know how many iterations you'll need or when you need to loop until a certain condition is met
+do-while loop is similar to the while loop, but it ensures that the loop body is executed at least once before checking the loop condition.
+                  In the provided workshop 6, we mainly use the for loop (The loop starts from i=0 and continues till i<Wish_List_Items)  to Perform array indexing and  end the loop early or skip certain elements based on a condition.
+   When working with arrays, the for loop is also often more effective than other loop types since it allows direct access to each element via an index
+   rather than requiring a conditional search for each iteration.
+   
+   Question2) in Visual Studio, iff there are any semantic flaws in your code, the compiler will produce errors when we run the code 
+   On the window titled Error List, you can see the errors. The error messages will outline the issue and  offer recommendations for how to fix it
+   usually when there are syntatic errors such as missing semicolon or commas , when we complie the code the complier highlights the red statement with the line ssaying
+   expected(;) or expected (,)and also refer to the line number of the code where erros happens and therfore we can solve the error 

@@ -1,0 +1,4 @@
+﻿  w6p1.c
+C:\Users\kabir\OneDrive\Desktop\workshop 6\w6p1.c(65,5): warning C4098: 'main': 'void' function returning a value
+C:\Users\kabir\OneDrive\Desktop\workshop 6\w6p1.c(8,9): warning C4101: 'item': unreferenced local variable
+  workshop 6.vcxproj -> C:\Users\kabir\OneDrive\Desktop\workshop 6\x64\Debug\workshop 6.exe
