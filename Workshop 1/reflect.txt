@@ -1,0 +1,4 @@
+1.) Yes, i do have some past programming experience with C and C++ Language, i did self study online for 4 months and completed C and C++ from W3 Schools
+2.) we convert a c language file(.c) using a compiler to and object file  using an assembler. 
+from assembler it cpnverts to object file and then to executable file.
+3). To be honest i hope to end as well experienced software developer with couple of leading projects and languages which could direct me to a big multi tech comapny with good pay, though its not all about pay its more about my curiosity to understand and learn about Programming
