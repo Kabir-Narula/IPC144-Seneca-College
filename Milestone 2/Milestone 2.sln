@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Milestone 2", "Milestone 2.vcxproj", "{39829239-D5F2-4A78-BADE-DA6512084989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Debug|x64.ActiveCfg = Debug|x64
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Debug|x64.Build.0 = Debug|x64
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Debug|x86.ActiveCfg = Debug|Win32
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Debug|x86.Build.0 = Debug|Win32
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Release|x64.ActiveCfg = Release|x64
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Release|x64.Build.0 = Release|x64
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Release|x86.ActiveCfg = Release|Win32
+		{39829239-D5F2-4A78-BADE-DA6512084989}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86D9327-0B22-4A36-A17E-7D9E7F68EA42}
+	EndGlobalSection
+EndGlobal
