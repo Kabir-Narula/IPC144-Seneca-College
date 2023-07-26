@@ -1,0 +1,35 @@
+question1)-
+1. The following are a few of the functions I developed to streamline my workflow.
+  a)- void sort(struct Appointment appoints[], int max);
+This function sorts the Appointment struct array's values in ascending order using bubble sort.The outer loop iterates from the end of the array towards the beginning,
+while the inner loop iterates from the beginning towards the end, comparing adjacent appointments and swapping them if necessary. 
+After each iteration of the inner loop, the largest value is bubbled up to the end of the array, so the inner loop can be shortened by one iteration in the next iteration of the outer loop.
+Year, month, day, hour, and minute statistics are included.
+As a result, the function changes all of the data into minutes for sorting and then converts them back to their original values. Mostly, the view function used this.
+  b)- int validAppointment(int patientNumber, struct Date date, struct Appointment *app, int maxAppointments);
+This function determines whether the user-inputted information about an appointment is accurate and whether the appointment truly exists. 
+The appointment's index value in the Appointment struct array is returned by this function. 
+To determine whether the appointment the user wishes to remove actually exists or not, I utilised this in the "removeAppointment" function.
+  c)- int nextSlotAvailable(struct Appointment* app, int maxAppointments);
+By examining which entries have a patient number value that is less than one, this function determines whether the Appointment struct array can accommodate more appointment entries.
+The function starts by initializing two variables, i and available, to zero. i is a loop counter that will be used to iterate through the array,
+while available is a flag that will be set to one if an available slot is found.Within the loop, the function checks if the patientNumber field of the ith element in the array is less than 1. If it is, that means the slot is available, so the function sets the available flag to 1 to indicate that a slot has been found.
+If the slot is not available, the loop continues, incrementing i by 1 so that the next element in the array can be checked. 
+Once the loop exits, the function returns the value of i, which will be the index of the next available slot in the array.
+
+Question2)-
+This module intentionally and significantly reduced the number of scanf function calls to avoid buffer overflow and enhance user experience.
+The reason for this is to prevent unexpected behavior due to input buffer issues. When the user enters input, it is stored in a buffer until it is consumed by a scanf function call.
+If the buffer is not cleared properly,it can cause issues with subsequent scanf function calls, leading to incorrect or unexpected behavior.
+The code handles user input by combining the fgets, sscanf, and clearInputBuffer routines to prevent these problems. The user's input is read and stored in a buffer using fgets. The input from the buffer is then parsed using sscanf to create the required format.
+To remove any lingering input from the buffer and stop it from interfering with future input, use the clearInputBuffer function.
+This input handling method, combined with a reduced reliance on scanf function calls, makes the code more reliable and less prone to input buffer-related mistakes.
+As a result, the programme becomes more trustworthy and user-friendly.
+
+Question3)-The decision to place these functions in clinic.c was likely based on several factors and considerations related to the program's structure and design.
+1)Firstly, the sort function was placed in clinic.c because it operates on the Appointment struct array, which is the main data structure used throughout the program. 
+Sorting the array is a common task in the program, and having a dedicated function for it helps to keep the code organized and easy to maintain.
+2)Given that it uses the Appointment struct array and is utilised by a number of other functions, including removeAppointment and updateAppointment, the validAppointment function was probably added to clinic.c. T
+ This function helps to ensure that the user's input is valid and accurate, which is critical for the program's overall functionality.
+ 3)Finally, the nextSlotAvailable function was also placed in clinic.c because it operates on the Appointment struct array and helps to determine whether the array has any available slots for new appointments. This function is crucial for adding new appointments to the program, 
+ nd having it in the same module as the rest of the appointment-related functions makes sense from a design perspective.Also,I have used this in the 'addAppointment' function to check whether there is space to accomodate another appointment.

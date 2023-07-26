@@ -1,0 +1,6 @@
+﻿  a1ms3.c
+  clinic.c
+  core.c
+C:\Users\kabir\OneDrive\Desktop\College\BTP 100 (Workshops)\Milestone 3\core.c(223,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  milestone3.vcxproj -> C:\Users\kabir\OneDrive\Desktop\College\BTP 100 (Workshops)\Milestone 3\x64\Debug\milestone3.exe
