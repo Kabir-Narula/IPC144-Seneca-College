@@ -1,0 +1,31 @@
+Question1):
+This code allows a user to simulate grocery shopping. In the first few lines of the code, we declare the fruits using integer variable  
+Then user is asked to input the number of apples, oranges, pears, tomatoes, and cabbages they need using scanf statements.
+(using while Statement)If the user inputs a negative value, they are prompted to enter a valid value (0 or more). 
+Then the code   "picks" the products by asking the user how many they have picked,  and decreasing the number needed accordingly. 
+if the number of apples are in negative the code ask user to input value 0 or more, if the picked value is less than required it asks user to pick more until we reach the desired amount
+The process is repeated for each product until the number needed is 0. 
+The code is designed to run in an infinite loop until the user decides to end the program.
+the loop ends at the end when the code asks do we need to another grocery shooping,if user enters 0 the while loop breaks which we started at the start of program and in case user enters 1 the loop still goes on
+The loop we use for this code is while loop with nested if statements used within it.
+
+
+Question2):
+The ability to nest control structures within other control structures in a programming language is referred to as nesting.In this code,
+The  organisation of the code would be greatly impacted if nesting were not possible.Without nesting, we would have to employ numerous 
+if-else statements, which would result in a  massive codebase that would be more difficult to read and manage.The nested if and the while 
+loop makes it much easier and faster to code
+
+
+question3):
+To accomplish the provided code in a situation using a number of "if" statements, it would be necessary to check the identical 
+criteria more than once in each "if" statement, which would result in a lot of duplicate code. 
+As the program expands, this may result in a rise in complexity and longer run durations. 
+The potential of introducing flaws or inconsistencies into the programme is also increased because several areas would need 
+to be updated if the conditions being checked changed.
+
+The "if/else if" method, on the other hand, offers a shorter and more effective way to carry out the same logic because 
+the conditions are only tested once and the programme jumps right to the right logic based on the first match.
+As a result, the code is easier to read and cleaner.
+
+

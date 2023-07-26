@@ -1,0 +1,38 @@
+ Question1) :
+Yes, non-repetitive logic elements in the workshop's game play were successfully coded.With no unnecessary code, the reasoning was implemented clearly and effectively.
+This was made mainly possible by the use of arrays in the development of structures. I used Loops, to avoid writing duplicate code.
+    The structures are named as "Info" and "game" in this code. Information about the player, including their lives, character symbol, treasure count, and position history, is represented via "Info" structure. 
+ The "game" structure represents game-related data such as the number of moves, length of the course, locations of bombs, and locations of prize.
+ Instead, the variables are grouped under the name of the structure, making it simpler for programmers to access and control them.
+
+ Question2) :
+ The code was made simpler in a number of ways by the usage of structures. First of all, it made it possible to create unique data types that could store linked information.
+ This enabled the coder to better arrange the code and conveniently manage the data. Second, it prevented any conflicts  while using the same variable names in many contexts. Thirdly, it made it easier to build arrays that could store related data. Lastly , since relevant data were grouped together, it made the programme simpler to understand and modify. 
+ Without structures, numerous independent variables and loops would have been required, lengthening the code and making it more difficult to read.
+      For example, the player's information can be accessed using the "player" structure variable, which contains all the relevant information about the p
+      Similarly, the game information can be accessed using the "game" structure variable. Instead of defining 8 variables and keeping track of them individually, 
+      I was able to organize my code in a better manner and make two groups of four variables each in order to make my workflow more efficient.
+
+
+Question3) :
+The maximum number of levels of nesting in my code is two.The two levels of nesting come from two do-while loops. 
+The first do-while loop sets the number of lives for the player and has one level of nesting. 
+The second do-while loop sets the path length of the game, limits the number of moves, and has another level of nesting. 
+ 
+First nesting - 
+do {
+    ...
+} while (player.lives < MINIMUM_LIVES || player.lives > MAXIMUM_LIVES);
+
+Second Nesting -
+do {
+    ...
+    do {
+        ...
+    } while ((game.Length < MINIMUM_PATH_LENGTH || game.Length > MAXIMUM_PATH_LENGTH) || (game.Length % MULTIPLE != 0));
+
+    do {
+        ...
+    } while (game.moves < player.lives || game.moves >(int) (0.75 * game.Length));
+    ...
+} while (condition);
