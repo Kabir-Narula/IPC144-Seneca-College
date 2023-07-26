@@ -1,0 +1,10 @@
+In this Code - 1) The relational expressions i used are (=) and (>)
+
+2)Applying De Morgan's Law, the expression can be rewritten as:
+
+!((productid3 == productid2) || (productid3 == productid1))
+
+This states that it is not the case that productid3 is equal to either productid2 or productid1
+
+3)
+
