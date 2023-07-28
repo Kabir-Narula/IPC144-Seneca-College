@@ -1,16 +1,5 @@
-# Marks secured
-1)WS1: 10/10
-2)WS2: 10/10
-3)WS3: 10/10
-4)WS4: 10/10
-5)WS5: 10/10
-6)WS6: 10/10
-7)WS7: 9/10
-8)WS8: 10/10
-9)MS1: 5/5
-10)MS2: 5/5
-11)MS3: 5/5
-
+# Overview----
+Welcome to the Workshop Assignments Repository! This repository contains a collection of workshop assignments I completed during my college studies. Here, you'll find various coding challenges, projects, and exercises that were part of different workshops throughout my academic journey.
 
 
 # NOTICE----
