@@ -1,6 +1,25 @@
-# Overview----
-Welcome to the Workshop Assignments Repository! This repository contains a collection of workshop assignments I completed during my college studies. Here, you'll find various coding challenges, projects, and exercises that were part of different workshops throughout my academic journey.
+# C++ Workshop Assignments Repository
+Hey there! Welcome to my C Workshop Assignments repository! As a college student passionate about programming, I've created this public repository to share the C assignments I've been working on during my course. These assignments cover various aspects of C and are designed to help students like you improve your coding skills.
 
+# Marks secured 
 
-# NOTICE----
-Try to understand the code instead as of whole.For any inquires dm me anytime on instagram, provided in profile :)
+ Workshop 01: 10/10                                                                                                                                           
+ Workshop 02: 10/10                                                                                                                                                   
+ Workshop 03: 10/10                                                                                                                                       
+ Workshop 04: 10/10                                                                                                                                                   
+ Workshop 05: 10/10                                                                                                                                                  
+ Workshop 06: 10/10                                                                                                                                                   
+ Workshop 07: 10/10                                                                                                                                                   
+ Workshop 08: 10/10                                                                                                                                                 
+
+Final Project:
+
+Milestone 01: 10/10                                                                                                                                        
+Milestone 02: 10/10                                                                                                                                        
+Milestone 03: 10/10                                                                                                                                        
+
+# Need Help?
+If you encounter any issues or have questions related to the assignments or C programming in general, feel free to reach out to me. I'm more than willing to help you out! You can contact me through the following means:
+
+Email: kabirnar10@gmail.com                                                                                                                                     
+Instagram: https://www.instagram.com/_kabirnarula/
