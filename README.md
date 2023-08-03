@@ -1,4 +1,4 @@
-# C++ Workshop Assignments Repository
+# C Workshop Assignments Repository
 Hey there! Welcome to my C Workshop Assignments repository! As a college student passionate about programming, I've created this public repository to share the C assignments I've been working on during my course. These assignments cover various aspects of C and are designed to help students like you improve your coding skills.
 
 # Marks secured 
