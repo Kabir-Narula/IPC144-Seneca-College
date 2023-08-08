@@ -32,6 +32,6 @@ By accessing and using the content in this repository, you acknowledge that you 
 # Need Help?
 If you encounter any issues or have questions related to the assignments or C programming in general, feel free to reach out to me. I'm more than willing to help you out! You can contact me through the following means:
 
-Email: ackerlevi102@gmail.com           
-Discord Username -leviackerman0931
+Email: ackerlevi102@gmail.com                                                                                                                                
+Discord-leviackerman0931
 
