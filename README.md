@@ -26,7 +26,7 @@ The content provided in this repository is intended for educational and informat
 
 Using this repository as a reference is encouraged, but direct replication without genuine effort and comprehension not only compromises your learning experience but also undermines the principles of learning and growth that education is built upon. Proper attribution and acknowledgment are critical if you choose to integrate any concepts or ideas from this repository into your own projects or assignments.
 
-By accessing and using the content in this repository, you acknowledge that you understand the implications of academic integrity and that you will use this material responsibly to enhance your learning journey.
+By accessing and using the content in this repository, you acknowledge that you understand the implications of academic integrity https://www.senecacollege.ca/about/policies/academic-integrity-policy.html and that you will use this material responsibly to enhance your learning journey.
 
 
 # Need Help?
