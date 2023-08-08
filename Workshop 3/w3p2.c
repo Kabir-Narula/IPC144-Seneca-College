@@ -1,10 +1,7 @@
 
 /*/////////////////////////////////////////////////////////////////////////
                           Workshop - #3 (P2)
-Full Name  : kabir narula
-Student ID#: 127962223
-Email      : knarula9@myseneca.ca
-Section    :NAA
+
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
 shared with any other student or 3rd party content provider. This submitted
