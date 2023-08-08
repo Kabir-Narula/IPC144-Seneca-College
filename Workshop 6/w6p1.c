@@ -1,8 +1,5 @@
 /*<assessment example name: Workshop- #6(part -1)
-Full name : Kabir Narula
-Student id#: 127962223
-Email : knarula9@myseneca.ca
-Section : NAA
+
 Authenticity Declartion:
 I Declare this submission is the result of my own work and has not been
 shared with any other student or third party provider. This submitted
