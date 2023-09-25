@@ -2,25 +2,6 @@
 
 Welcome to my C Workshop Assignments repository! I'm a college student who is passionate about programming, and I've created this public repository to share the C assignments I've been working on during my course. These assignments cover various aspects of C and are designed to help fellow students like you improve your coding skills.
 
-# 💬 Discussions
-
-Welcome to the Discussions section of our C Workshop Assignments repository! We're excited to hear from you, answer your questions, and engage in meaningful conversations about C programming and the assignments. This space is for the community, and we encourage your active participation.
-
-### How to Access Discussions
-
-1. **Click on the "Discussions" Tab**: To access our discussions, simply click on the "Discussions" tab at the top of this repository. You'll find it next to "Code" and "Issues."
-
-2. **Browse or Start a Discussion**: You can browse existing discussions to see if your question has already been answered, or you can start a new discussion by clicking the "New Discussion" button.
-
-Feel free to use Discussions for:
-
-- **Asking Questions**: Have a question about C programming or any specific assignment? Ask away! Our community is here to help.
-
-- **Sharing Ideas**: Got an innovative idea or a different approach to solving a problem? Share it with us! Collaboration can lead to new insights.
-
-- **Engaging with Others**: Connect with fellow members, share your experiences, and learn from one another. Collaboration is key to our community's growth.
-
-- **Feedback and Suggestions**: Have suggestions for improving this repository or community? We value your input and are open to enhancements.
 
 ---
 
@@ -55,6 +36,25 @@ Here are the marks I secured for each workshop assignment:
 - Milestone 02: 10/10
 - Milestone 03: 10/10
 
+# 💬 Discussions
+
+Welcome to the Discussions section of our C Workshop Assignments repository! We're excited to hear from you, answer your questions, and engage in meaningful conversations about C programming and the assignments. This space is for the community, and we encourage your active participation.
+
+### How to Access Discussions
+
+1. **Click on the "Discussions" Tab**: To access our discussions, simply click on the "Discussions" tab at the top of this repository. You'll find it next to "Code" and "Issues."
+
+2. **Browse or Start a Discussion**: You can browse existing discussions to see if your question has already been answered, or you can start a new discussion by clicking the "New Discussion" button.
+
+Feel free to use Discussions for:
+
+- **Asking Questions**: Have a question about C programming or any specific assignment? Ask away! Our community is here to help.
+
+- **Sharing Ideas**: Got an innovative idea or a different approach to solving a problem? Share it with us! Collaboration can lead to new insights.
+
+- **Engaging with Others**: Connect with fellow members, share your experiences, and learn from one another. Collaboration is key to our community's growth.
+
+- **Feedback and Suggestions**: Have suggestions for improving this repository or community? We value your input and are open to enhancements.
 ## 🔍 Using the Repository
 
 This repository serves as a valuable resource for learning and reference. You can explore the code I've written for various assignments to gain insights into C programming techniques. However, it's important to remember that while reference is encouraged, direct copying without comprehension is discouraged. Use these solutions as learning aids to improve your coding skills.
