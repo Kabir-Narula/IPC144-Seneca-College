@@ -1,3 +1,7 @@
+# 🖥️ C Workshop Assignments Repository
+
+Welcome to my C Workshop Assignments repository! I'm a college student who is passionate about programming, and I've created this public repository to share the C assignments I've been working on during my course. These assignments cover various aspects of C and are designed to help fellow students like you improve your coding skills.
+
 # 💬 Discussions
 
 Welcome to the Discussions section of our C Workshop Assignments repository! We're excited to hear from you, answer your questions, and engage in meaningful conversations about C programming and the assignments. This space is for the community, and we encourage your active participation.
@@ -19,10 +23,6 @@ Feel free to use Discussions for:
 - **Feedback and Suggestions**: Have suggestions for improving this repository or community? We value your input and are open to enhancements.
 
 ---
-
-# 🖥️ C Workshop Assignments Repository
-
-Welcome to my C Workshop Assignments repository! I'm a college student who is passionate about programming, and I've created this public repository to share the C assignments I've been working on during my course. These assignments cover various aspects of C and are designed to help fellow students like you improve your coding skills.
 
 ## 📂 What's Inside?
 
