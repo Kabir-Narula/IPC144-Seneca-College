@@ -1,6 +1,6 @@
 #  C Workshop Assignments Repository
 
-Welcome to my C Workshop Assignments repository! I'm a college student who is passionate about programming, and I've created this public repository to share the C assignments I've been working on during my course. These assignments cover various aspects of C and are designed to help fellow students like you improve your coding skills.
+Welcome to my C Workshop Assignments repository! I'm a college student who is passionate about programming, and I've created this public repository to for the C assignments I've been working on during my course. These assignments cover various aspects of C and are designed to help fellow students like you improve your coding skills.
 
 
 ---
